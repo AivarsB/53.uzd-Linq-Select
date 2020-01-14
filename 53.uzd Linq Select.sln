@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "53.uzd Linq Select", "53.uzd Linq Select\53.uzd Linq Select.csproj", "{374A0A51-3884-4541-B993-5B3BC45472E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{374A0A51-3884-4541-B993-5B3BC45472E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{374A0A51-3884-4541-B993-5B3BC45472E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{374A0A51-3884-4541-B993-5B3BC45472E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{374A0A51-3884-4541-B993-5B3BC45472E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C10BCFE3-F0EC-4921-AD23-FDC59783F174}
+	EndGlobalSection
+EndGlobal
